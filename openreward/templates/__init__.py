@@ -1,0 +1,1 @@
+"""OpenReward CLI 的模板资源。"""
