@@ -132,4 +132,4 @@ orwd create my-env --description "简短描述" --private
 
 ## 许可证
 
-Apache 2.0
+MIT License
